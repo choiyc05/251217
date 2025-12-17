@@ -27,6 +27,7 @@
     장점: 빠른 개발 속도, 풍부한 예제, 초보자에게 용이.
     사용 이유: 기존 프로젝트 유지보수 및 신속한 프로토타이핑에 여전히 강력함.
     Bootstrap 5 : https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr
+    w3schools.com 에서 찾아서도 이용 가능
     
     Materialize CSS:
     특징: 구글의 머티리얼 디자인을 기반으로 하여 시각적 일관성과 사용자 경험(UX) 강조.
@@ -35,6 +36,11 @@
     Bulma:
     특징: Flexbox 기반, Sass로 빌드되어 반응형 및 커스터마이징 용이.
     장점: 배우기 쉬운 클래스 구조, 최소한의 코딩으로 UI 구성. 
+
+  # Bootstrap 5 / w3schools
+    https://www.w3schools.com/bootstrap5/index.php
+
+    
 
     
 
